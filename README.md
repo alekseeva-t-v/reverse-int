@@ -2,7 +2,7 @@
 
 ![Reverse Int](./public/arrow.jpg)
 
-Алгоритмические задача курса [**_"JavaScript/Front-end"_** Stage 0](https://rs.school/js-stage0/)
+Алгоритмическая задача курса [**_"JavaScript/Front-end"_** Stage 0](https://rs.school/js-stage0/)
 ## Задача
 
 Дано: число. Задача — реализовать функцию, которая меняет местами цифры этого числа.
