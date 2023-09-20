@@ -1,10 +1,13 @@
-# Reverse Int
+# **Обратный отсчет**  |  **Reverse Int**
 
-## Task
+![Reverse Int](./public/arrow.jpg)
 
-Given: number, your task is to implement function that reverse digits of this number.
+Алгоритмические задача курса [**_"JavaScript/Front-end"_** Stage 0](https://rs.school/js-stage0/)
+## Задача
 
-For example:
+Дано: число. Задача — реализовать функцию, которая меняет местами цифры этого числа.
+
+Например:
 ```js
 reverse(123); // 321
 reverse(233); // 332
@@ -12,24 +15,14 @@ reverse(535); // 535
 reverse(95034); // 43059
 ```
 
-Write your code in `src/index.js.
-*All test cases are designed as “error-free”, so don't worry about handling any errors.*
+Реализация задачи в файле `src/index.js`.
 
-## Prepare and test
-1. Install [Node.js](https://nodejs.org/en/download/)   
-2. Fork this repository: reverse-int
-3. Clone your newly created repo: https://github.com/<%your_github_username%>/reverse-int/  
-4. Go to folder `reverse-int`  
-5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
-6. Run `npm test` in the command line  
-7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
+## Тестирование решения
+1. Установите [Node.js](https://nodejs.org/en/download/)
+2. Сделайте форк этого репозитория
+3. Склонируйте себе этот репозиторий: https://github.com/<%your_github_username%>/reverse-int/
+4. Перейдите в папку `reverse-int`
+5. Вбейте в командную строку `npm install` для установки зависимостей
+6. Выполните `npm test` в командной строке.
+7. Вы увидите число ожидающих (pending), проходящих и падающих тестов. 100% проходящие тесты соответствуют максимальному баллу за задание.
 
-## Submit to [rs app](https://app.rs.school)
-1. Open [rs app](https://app.rs.school) and login
-2. Open `RS APP` and click `Auto Test`
-3. Select your task (reverse-int)
-4. Press the submit button and enjoy
-
-### Notes
-1. We recommend you to use nodejs of version 14 or lower. If you using are any of the features which are not supported by v12, the score won't be submitted.
-2. Each of your test case is limited to 30 sec.
