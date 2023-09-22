@@ -1,7 +1,7 @@
 /**
  * Меняет местами цифры исходного числа, возвращает преобразованное число.
  *
- * @param {number} num Возводимое в степень число.
+ * @param {number} num Исходное число.
  * @return {number} преобразованное число.
  */
 module.exports = function reverse(num) {
